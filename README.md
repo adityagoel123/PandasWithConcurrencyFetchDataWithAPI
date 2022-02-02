@@ -1,6 +1,6 @@
 # PandasWithConcurrencyFetchDataWithAPI
 
-Python 🐍  (🐼 ) Script performs following tasks :- 
+Python 🐍  (PANDAS 🐼 ) Script performs following tasks :- 
 
 1.) Reads the CSV files. 
 
